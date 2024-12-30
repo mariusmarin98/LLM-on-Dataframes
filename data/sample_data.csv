@@ -1,0 +1,11 @@
+employee_id,name,age,salary,department,experience,location,performance_rating,working_hours
+101,Alice,25,50000,HR,2,New York,4.5,35
+102,Bob,35,60000,Engineering,10,San Francisco,3.8,40
+103,Charlie,45,70000,Sales,20,Chicago,4.2,30
+104,Diana,28,45000,Marketing,3,Los Angeles,4.0,45
+105,Eve,40,80000,Engineering,15,Austin,4.7,50
+106,Frank,30,55000,HR,5,New York,3.5,38
+107,Grace,50,90000,Sales,25,Chicago,4.9,20
+108,Hank,33,60000,Marketing,7,San Francisco,4.3,42
+109,Isabel,29,48000,HR,4,Boston,3.9,36
+110,Jack,38,85000,Engineering,12,Austin,4.6,55
